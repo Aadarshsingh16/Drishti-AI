@@ -19,7 +19,7 @@ Getting Started
 Clone this repo:
 
 bash
-git clone https://github.com/yourusername/Drishti-AI.git
+git clone https://github.com/Aadarshsingh16/Drishti-AI.git
 cd drishti-frontend
 Install dependencies:
 
