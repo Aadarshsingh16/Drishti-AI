@@ -68,7 +68,7 @@ Drishti solves this by combining **live video AI** with **NFC-based smart alerts
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/drishti.git
+   git clone https://github.com/udbhaw08/drishti.git
    cd drishti
    ```
 
