@@ -118,6 +118,8 @@ DETECTED FRAME BY MODEL
 ![WhatsApp Image 2025-11-04 at 11 08 48 AM](https://github.com/user-attachments/assets/bf7a9032-1d7a-44a9-a588-079b176017cb)
 ![WhatsApp Image 2025-11-04 at ![WhatsApp Image 2025-11-04 at 11 07 22_21770070](https://github.com/user-attachments/assets/37c09659-d44f-4a9f-bc8d-ebf7b4de4e4c)
 11 08 48 AM](https://github.com/user-attachments/assets/a61ec719-3140-4ac4-9f6e-3fcded3e71ea)
+![WhatsApp Image 2025-11-04 at 11 07 21_0fa6ba79](https://github.com/user-attachments/assets/3e6a7c8d-9652-42fd-9e05-d6231d249bcc)
+![WhatsApp Image 2025-11-04 at 11 07 27 AM (1)](https://github.com/user-attachments/assets/1fe0ef52-4c6e-4d24-85fe-f6de92322507)
 
 
 NFC BASEDE ALERTS
